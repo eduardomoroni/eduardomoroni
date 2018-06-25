@@ -1,6 +1,9 @@
 # eduardomoroni
 Summary of contributions to community
 
+## Blog Post
+- [How to setup Travis CI for a React Native Project](https://medium.com/@eduardomoroni/como-configurar-travisci-para-um-projeto-react-native-95481f3dfb53)
+
 ## [Talks](https://speakerdeck.com/eduardomoroni)
 - [React Native, learning once writting everywhere](https://speakerdeck.com/eduardomoroni/welcome-to-react-native-world)
 - [React Native under the hood](https://speakerdeck.com/eduardomoroni/tdc-floripa-2018-react-native-por-debaixo-dos-panos)
@@ -15,7 +18,7 @@ Summary of contributions to community
 
 ## Starter Kits
 - [Chatbot WitAi](https://github.com/eduardomoroni/chatbot-witai)
-- [Reusing code React Native and Web](https://github.com/eduardomoroni/react-reusable-clean-architecture)
+- [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture)
 - [React Native Hackaton Starter Kit](https://github.com/eduardomoroni/react-native-boilerplate)
 - [React Native DevOps](https://github.com/eduardomoroni/react-native-travis-ci)
 - [JS Fullstack DevOps](https://github.com/eduardomoroni/fullstack-resume)
