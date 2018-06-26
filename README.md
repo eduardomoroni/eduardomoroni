@@ -3,6 +3,7 @@ Summary of contributions to community
 
 ## Blog Post
 - [How to setup Travis CI for a React Native Project](https://medium.com/@eduardomoroni/como-configurar-travisci-para-um-projeto-react-native-95481f3dfb53)
+- [How to apply clean architecture to React codebases](https://medium.com/@eduardomoroni/arquitetura-limpa-para-bases-de-c%C3%B3digo-react-df0f78d2b42e)
 
 ## [Talks](https://speakerdeck.com/eduardomoroni)
 - [React Native, learning once writting everywhere](https://speakerdeck.com/eduardomoroni/welcome-to-react-native-world)
