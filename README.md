@@ -1,4 +1,5 @@
 # eduardomoroni
+NOTE: THIS IS OLD AND OUTDATED, take it with a grain of salt.
 Summary of contributions to community
 
 ## Blog Post
